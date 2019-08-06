@@ -1,0 +1,5 @@
+se agrega en el graddle debajo de la version del sdk y la versionMin android sdk
+
+
+
+vectorDrawables.useSupportLibrary = true

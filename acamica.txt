@@ -1,0 +1,9 @@
+4.2
+Uso de Threads
+
+manejo de threads como actualizar el progressbar desde otro hilo
+
+
+
+obtener resources and files from device memory
+https://globant.acamica.com/clases/3022/conociendo-mas-de-android/files

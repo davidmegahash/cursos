@@ -1,0 +1,13 @@
+el error que dice slice 
+
+AndroidStudioProjects\UrbagisApp\app\build\intermediates\instant_run_split_apk_resources\debug\instantRunSplitApkResourcesDebug\out\slice_7\resources_ap
+
+
+
+SOLUTION: 
+
+
+desabilitar instant run 
+
+
+File > Settings > Build,Execution,Deployment > Instant Run > Un-check (Enable Instant Run to hot swap code)

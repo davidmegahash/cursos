@@ -1,0 +1,75 @@
+#Configurar user
+git config --global user.name ""
+git config --global user.email ""
+git config --global color.ui true
+git config --global --list
+
+
+$ cd /path/to/my/codebase
+
+#Iniciar Proyecto
+git init
+
+#Estado del Proyecto y cambios 
+git status
+
+#Realizar un cambio en el Proyecto
+git add -A
+git commit -m "message"
+
+#Ver cambios en el Proyecto
+git log
+
+#Cambiar el proyecto a otros commits
+git checkout SHA
+
+#Cambiar al ultimo commit del proyecto 
+git checkout master
+
+#borra el commit pero no toca el working area (codigo)
+git reset --soft 
+
+#Borra todos los commit incluyendo el working area ni el staging area
+git reset --hard
+
+#no toca el working area ni el staging area
+git reset --mixed
+
+#Crear Branch
+git branch nameBranch
+
+#Moverse al branch
+git checkout nameBranch
+
+#Crear Branch y Moverse al branch
+git checkout -b nameBranch
+
+
+#Borrar un Branch
+git branch -D nameBranch
+
+#Merge de un Branch
+git checkout nameBranch
+git merge nameBranchv1
+
+#clonar github a local
+git clone https://github.globant.com/david-mazo/practica.git
+
+#linkear proyecto a github
+git remote add origin https://github.globant.com/david-mazo/practica.git
+
+#upload  proyecto a github (pide credenciales de github) (recordar master)
+git push origin nameBranch 
+
+
+#deslinkear el project 
+git remote remove origin
+
+
+para generar el gitignore
+https://www.gitignore.io/
+
+
+#para actualizar el gitignore
+git rm -r --cached .
+git add .
