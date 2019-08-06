@@ -1,0 +1,7 @@
+taskProgress = taskProgress++;
+
+
+
+eso es todo 
+sin complicaciones 
+olo incrementar y validar si es mayor que 100 destruir progressbar
