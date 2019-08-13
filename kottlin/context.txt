@@ -1,0 +1,8 @@
+Obtener el context en un viewholder de un recyclerview
+
+
+
+it?.context
+
+itemView.context     
+//el item de tipo View 	que recibe como parametro 

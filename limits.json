@@ -1,0 +1,59 @@
+{
+"requirements":"Only OPEN SOURCE TOOLS with a big community behind",
+"base tecnologies":{
+	"phyton":[
+		"django",
+		"visual studio community"
+	],
+	"javascript":[
+		"angular 8",
+		"node js",
+		"loopback",
+		"vsc",
+		"visual studio community",
+		"ngx-admin template"
+	],
+	"kotlin":[
+		"android studio"
+	],
+	"mongodb":[
+		"loopback"
+	],
+	"postgress":[
+		"sgbd postgresql","wokbench"
+	],
+	"mysql":[
+		"phpmyadmin","wokbench"
+	],
+	"sqlite":[
+		"couch base"
+	],
+	"git":[
+		"gitbash"
+	],
+	"OTHERS (general)":[
+		"dagger",
+		"google maps",
+		"couch base",
+		"HERRAMIENTAS-DE-ALTO-NIVEL nivel q hagan mas rapido, eficiente y seguro el resultado final",
+		"keep talking english as much as possible -> collegues, partners and friends",
+		"brain health and health most important",
+		"json",
+		"tools for IA -- enfoque IA",
+		"tools for analising big data  -- enfoque big data",
+		"sockets with mongo",
+		"sockets with phyton client",
+		"sockets with kotlin clients"
+	],
+	"OTHERS (current project)":[
+		"java lo que se, sino investigar en los recursos web, then asesoria with contacts and friends, colleguaes and finally team"
+	]
+	}
+}
+
+
+//Mi enfoque es mas hacia proyectos bigdata es decir volumenes gigantes de informacion mundial -> web puede encajar ahi   - - -  el front no encaja ahi at all por eso las herramientas seleccionadas van mas hacia alla que hacia el software o productos standalone
+//LAST RESOURCES EN CASO DE QUE NO PUEDA HACERLO CON LAS HERRAMIENTAS LISTADAS ARRIBA 
+//"firebase":[],
+//"php":["laravel","wordpress"],
+//"c++":["OJO es un lenguaje maravilloso, el mejor, para crear herramientas de mas alto nivel y para manipular hardware","gcc","visual-cpp-build-tools","visual studio comunity","visual studio open source - by jhon arrieta"],
